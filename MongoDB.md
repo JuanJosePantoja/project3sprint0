@@ -1,0 +1,5 @@
+# Show all databases
+  ```
+   show dbs
+  ```
+  
